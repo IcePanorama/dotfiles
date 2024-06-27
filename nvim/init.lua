@@ -1,3 +1,5 @@
+vim.opt.colorcolumn = "80"
+
 -- Custom keymaps
 vim.g.mapleader = " "
 vim.keymap.set("n", "<leader>pv", vim.cmd.Ex)
