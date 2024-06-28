@@ -224,6 +224,7 @@ exec_always xrandr --output DisplayPort-2 --primary --auto --output HDMI-A-0 --s
 # Floating windows
 for_window [class="KeePassXC"] floating enable
 for_window [class="steam"] floating enable
+for_window [class="CRPGProject"] floating enable
 
 # Gaps related configs
 default_border pixel 0
