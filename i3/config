@@ -226,6 +226,7 @@ for_window [class="KeePassXC"] floating enable
 for_window [class="steam"] floating enable
 for_window [class="CRPGProject"] floating enable
 for_window [class="Emulator"] floating enable
+for_window [class="ghidra-Ghidra"] floating enable
 
 # Gaps related configs
 default_border pixel 0
