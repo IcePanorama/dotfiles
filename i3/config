@@ -238,3 +238,7 @@ gaps outer 5
 
 # Wallpaper
 exec_always --no-startup-id feh --bg-scale ~/Pictures/Wallpapers/lighthouse_sea_ocean_1258653_3840x2160.jpg
+
+# Disable screen saver
+exec_always --no-startup-id xset s off
+exec_always --no-startup-id xset -dpms
