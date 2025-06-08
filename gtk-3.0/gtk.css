@@ -1,0 +1,4 @@
+/* Disable file chooser history */
+GtkFileChooser {
+	history=false;
+}
